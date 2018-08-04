@@ -14,14 +14,16 @@ Summary: a package for genome-wide association analysis between  quantitative or
 Current build status
 ====================
 
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/r-genabel-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/r-genabel-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/r-genabel-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/r-genabel-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/r-genabel-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/r-genabel-feedstock/branch/master)
+[![Linux](https://img.shields.io/circleci/project/github/conda-forge/r-genabel-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/r-genabel-feedstock)
+[![OSX](https://img.shields.io/travis/conda-forge/r-genabel-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/r-genabel-feedstock)
+[![Windows](https://img.shields.io/appveyor/ci/conda-forge/r-genabel-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/r-genabel-feedstock/branch/master)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-genabel/badges/version.svg)](https://anaconda.org/conda-forge/r-genabel)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/r-genabel/badges/downloads.svg)](https://anaconda.org/conda-forge/r-genabel)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-r--genabel-green.svg)](https://anaconda.org/conda-forge/r-genabel) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/r-genabel.svg)](https://anaconda.org/conda-forge/r-genabel) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/r-genabel.svg)](https://anaconda.org/conda-forge/r-genabel) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/r-genabel.svg)](https://anaconda.org/conda-forge/r-genabel) |
 
 Installing r-genabel
 ====================
